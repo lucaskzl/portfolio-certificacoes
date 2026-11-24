@@ -1,0 +1,17 @@
+PASTA DE CERTIFICADOS PDF
+
+Coloque aqui os arquivos PDF originais, usando exatamente estes nomes:
+
+1. IBM-SkillsBuild-Cybersecurity-Fundamentals-2026.pdf
+2. Cisco-Networking-Basics-2026.pdf
+3. Microsoft-Entender-o-Microsoft-Entra-ID-2025.pdf
+4. Microsoft-Introducao-ao-Azure-Cloud-Shell-2025.pdf
+5. ENAP-SEI-Usar-4-0-2025.pdf
+6. IFRS-Redes-de-Computadores-2025.pdf
+
+IMPORTANTE
+- O arquivo precisa estar em PDF e manter exatamente o nome acima.
+- Depois de adicionar o PDF, envie-o para esta pasta no GitHub. O cartão correspondente passará a mostrar o botão de abertura automaticamente.
+- Não envie documentos com CPF, endereço, telefone ou outros dados pessoais desnecessários.
+- O certificado do IFRS contém CPF no documento original. Não publique o PDF original sem revisar esse dado. Antes de ocultar o CPF, confirme se há assinatura digital incorporada, pois a edição pode afetar a validação. Se tiver dúvida, mantenha o PDF privado e use apenas o código/portal de validação no site.
+- Não crie certificados: use apenas os documentos verdadeiros emitidos pelas instituições.
